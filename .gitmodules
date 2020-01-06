@@ -1,0 +1,4 @@
+[submodule "d2i-solutions/operating-unit"]
+	path = d2i-solutions/operating-unit
+	url = git@github.com:d2i-solutions/operating-unit.git
+	branch = pr_149
